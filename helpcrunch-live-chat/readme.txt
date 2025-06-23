@@ -2,8 +2,8 @@
 Contributors: HelpCrunch
 Tags: chat, live chat, chatbot, chat widget, chat plugin
 Requires at least: 3.6
-Tested up to: 6.7
-Stable tag: 2.0.7
+Tested up to: 6.8.1
+Stable tag: 2.0.8
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -225,3 +225,6 @@ Please, write to us in chat on our [website](https://helpcrunch.com/) to get oth
 
 = 2.0.7 =
 * WordPress 6.7 support added
+
+= 2.0.8 =
+* WordPress 6.8 support added
