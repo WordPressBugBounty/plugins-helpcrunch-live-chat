@@ -4,7 +4,7 @@
  * Description: A modern live chat, email marketing tool, marketing automation solution and simple CRM in one product.
  * Author: HelpCrunch
  * Author URI: https://helpcrunch.com
- * Version: 2.0.8
+ * Version: 2.0.11
  */
 
 /**
@@ -88,8 +88,7 @@ class HelpCrunchWPSettingsPage
         <stype>
         <ol>
           <li>
-              <a href="https://helpcrunch.com/signin.html" target="_blank">Log in</a>
-              to your HelpCrunch account in a separate browser tab.
+              <a href="https://helpcrunch.com/signin.html" target="_blank">Log in</a> to your HelpCrunch account in a separate browser tab.
           </li>
           <li>
               Go to <b>Settings → Channels → Website Widgets</b> and choose the widget you'd like to install on your WordPress website.
