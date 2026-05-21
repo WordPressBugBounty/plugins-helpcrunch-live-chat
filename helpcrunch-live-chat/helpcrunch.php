@@ -4,7 +4,7 @@
  * Description: A modern live chat, email marketing tool, marketing automation solution and simple CRM in one product.
  * Author: HelpCrunch
  * Author URI: https://helpcrunch.com
- * Version: 2.0.11
+ * Version: 2.0.12
  */
 
 /**
@@ -21,6 +21,11 @@ class HelpCrunchWPSettingsPage
      * @var string
      */
     private $slug;
+
+    /****
+     * @var string
+     */
+    private $come;
 
     /****
      * @var string
