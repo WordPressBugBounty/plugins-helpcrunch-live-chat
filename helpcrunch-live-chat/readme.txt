@@ -2,7 +2,7 @@
 Contributors: HelpCrunch
 Tags: chat, live chat, chatbot, chat widget, chat plugin
 Requires at least: 3.6
-Tested up to: 7.0.0
+Tested up to: 7.1.0
 Stable tag: 2.0.14
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
